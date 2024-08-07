@@ -1,5 +1,6 @@
-body{
-   color: #fff;
+.telegram-browser-container {
+    background-color: white;
+}
 main{
    display: flex;
    flex-direction: column;
